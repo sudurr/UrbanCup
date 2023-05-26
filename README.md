@@ -8,4 +8,3 @@
 
 * SwiftUI
 * MVVM
-
